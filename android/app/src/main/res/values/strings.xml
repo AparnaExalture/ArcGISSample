@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">CustomNativeModule</string>
+    <string name="world_topo_service">https://services.arcgisonline.com/arcgis/rest/services/World_Topo_Map/MapServer</string>
+
+    <string name="imagelayer_elevation_url">https://sampleserver5.arcgisonline.com/arcgis/rest/services/Elevation/WorldElevations/MapServer</string>
+
+    <string name="imagelayer_census_url">http://mapy.geoportal.gov.pl/wss/service/imgurl/guest/CIEN/MapServer/0</string>
+
+    <string name="cien_url">http://mapy.geoportal.gov.pl/wss/service/imgurl/guest/CIEN/MapServer</string>
+
+    <string name="operational_layers">Operational Layers</string>
+
+    <string name="image_layers">Show Image Layer</string>
+
+    <string name="tiled_layers">Show Tiled Layer</string>
+
+    <string name="hide_image_layers">Hide Image Layer</string>
+
+    <string name="hide_tiled_layers">Hide Tiled Layer</string>
+
+    <string name="done">Done</string>
+
+    <string name="added_layers"> Added layers</string>
+
+    <string name="removed_layers"> Removed layers</string>
+
+    <string name="world_cities_service">https://sampleserver6.arcgisonline.com/arcgis/rest/services/SampleWorldCities/MapServer</string>
+</resources>
